@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+
+18.01.08 - Installed Git
+         - First repository in github
+         - First page in wayneyeung.github.io
+
 
 You can use the [editor on GitHub](https://github.com/wayneyeung/wayneyeung.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
